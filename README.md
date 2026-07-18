@@ -1,6 +1,9 @@
 # Wuwa-RabbitFX-Applier
 <img width="2198" height="1179" alt="image" src="https://github.com/user-attachments/assets/16cb079f-0bf8-4039-8853-6d686374ffad" />
 This is a tool to make the proposed fix from [tutorial](https://gamebanana.com/tuts/20005) a lot faster.
+<img width="1227" height="1309" alt="image" src="https://github.com/user-attachments/assets/a6bbe8db-6b61-4133-9ab1-5dd642f8edaf" />
+
+<img width="964" height="1308" alt="image" src="https://github.com/user-attachments/assets/ac4b8063-33b2-412a-bbbb-2d0e2084e53b" />
 
 Usage: 
 Select the ini of the mod you want to fix
