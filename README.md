@@ -7,15 +7,18 @@ This is a tool to make the proposed fix from [tutorial](https://gamebanana.com/t
 <img width="964" height="1308" alt="623541045-ac4b8063-33b2-412a-bbbb-2d0e2084e53b" src="https://github.com/user-attachments/assets/00e390c4-beb6-4484-b630-192c7d80af1a" />
 
 Usage: 
-Select the ini of the mod you want to fix
-Select a target Component from the list on the left side
-look through the DDS files via the TextureOverride Inspector List
+Select the ini of the mod you want to fix.
+
+Select a target Component from the list on the left side.
+
+Look through the DDS files via the TextureOverride Inspector List.
+
 <img width="2193" height="1173" alt="image" src="https://github.com/user-attachments/assets/e627dfb5-f9f8-43db-8315-839bbe972e26" />
-Add the diffuse Lightmap and normal map if present 
-Change every non yoused source section to none 
+Add the diffuse Lightmap and normal map if present.
+Change every non yoused source section to none.
 <img width="494" height="480" alt="image" src="https://github.com/user-attachments/assets/0a51fb9b-9040-4017-9365-93dc80e17f99" />
 
-Click apply patch and check if it fixed it if not you can roll back via restore last backup
+Click apply patch and check if it fixed it if not you can roll back via restore last backup.
 
 For complexer mods like the ones made by yyzj and some other cases:
 You need to use ps slot mapping instead of RabbitFx Channels for some bodyparts of some mods like the face.
